@@ -1,0 +1,43 @@
+**********GIT Tech*********
+
+day 1.basic git commands
+day 2. git advanced commands
+day 3 branching and merging
+day 4 repository
+
+
+************** DAY 1 ************
+
+version control system(VCS)
+
+files---> repository---> history
+
+repository
+->Local (user machine)
+->remote (keeping files in server)
+
+VCS
+* centralized 
+common hub
+all will get the code from central hub
+team foundation server
+
+
+*Distributed
+
+every one have their own copy of repositories in their machines
+
+Why GIT??
+-free of cost 
+-open source 
+-super fast process
+-scalable
+
+
+***GIT Architecture
+
+working directory
+staging area
+local repo 
+remote repo
+
